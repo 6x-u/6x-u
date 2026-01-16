@@ -6,7 +6,7 @@
   </a>
 
   <div>
-    [![GitHub Followers](https://img.shields.io/github/followers/6x-u?label=Follow&style=social)](https://github.com/6x-u)
+    [![GitHub Followers](https://img.shields.io/github/followers/6x-u?label=Follow&style=social)](https://github.com/6x-u)  
     [![GitHub Stars](https://img.shields.io/github/stars/6x-u?style=social)](https://github.com/6x-u)
   </div>
 </div>
@@ -45,20 +45,22 @@
 <br>
 
 <div align="center">
-  | MERO's Stats | Ultimate Streak |
-  | ------------- | ------------- |
-  | ![MERO's Stats](https://github-readme-stats.vercel.app/api?username=6x-u&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![MERO's Streak](https://github-readme-streak-stats.herokuapp.com/?user=6x-u&theme=onedark&hide_border=true) |
 
-  | Most Languages |
-  | ----------|
-  | ![MERO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6x-u&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+| MERO's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![MERO's Stats](https://github-readme-stats.vercel.app/api?username=6x-u&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![MERO's Streak](https://github-readme-streak-stats.herokuapp.com/?user=6x-u&theme=onedark&hide_border=true) |
+
+| Most Languages |
+| ------------- |
+| ![MERO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6x-u&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
 </div>
 
 <br><br>
 
 <div align="center">
   | Contacts |
-  | ----------|
+  | ---------- |
   | <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>  
     <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a>  
     <a href="https://discord.com/users/729473858179956859"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
