@@ -73,10 +73,6 @@
   <audio controls preload="none" style="width:400px;">
     <source src="https://files.catbox.moe/ndxwx6.mp3" type="audio/mpeg">
   </audio>
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=6x-u&theme=onedark&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 
 <br><br>
