@@ -6,8 +6,9 @@
   </a>
 
   <div>
-    [![GitHub Followers](https://img.shields.io/github/followers/6x-u?label=Follow&style=social)](https://github.com/6x-u)  
-    [![GitHub Stars](https://img.shields.io/github/stars/6x-u?style=social)](https://github.com/6x-u)
+[![GitHub Followers](https://img.shields.io/github/followers/6x-u?label=Followers&style=social)](https://github.com/6x-u)
+
+[![GitHub Stars](https://img.shields.io/github/stars/6x-u?label=Stars&style=social)](https://github.com/6x-u)
   </div>
 </div>
 
