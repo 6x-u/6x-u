@@ -21,7 +21,8 @@
 ---
 
 🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
-
+"Leave your place empty… for emptiness is the most beautiful for those who witness it."
+"You are the story I never want to have an ending."
 💻 Passionately building an **Arch Installer** project.
 
 ---
