@@ -4,7 +4,7 @@
   <br><br>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="700"/>
+    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="600"/>
   </a>
 
   <br><br>
