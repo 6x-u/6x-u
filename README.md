@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://t.me/QP4RM">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/6x-u?label=Follow&style=social)](https://github.com/6x-u)
