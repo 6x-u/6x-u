@@ -4,7 +4,7 @@
   <br><br>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="500"/>
+    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="700"/>
   </a>
 
   <br><br>
@@ -65,12 +65,12 @@
   <h1>MERO's Stats</h1>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="500"/>
+    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="700"/>
   </a>
 
   <br><br>
 
-  <audio controls preload="none" style="width:350px;">
+  <audio controls preload="none" style="width:400px;">
     <source src="https://raw.githubusercontent.com/6x-u/gif/main/me.mp3" type="audio/mpeg">
   </audio>
 
@@ -82,53 +82,14 @@
 <br><br>
 
 <div align="center">
-  <h1>Ultimate Streak</h1>
-
-  <a href="https://t.me/QP4RM">
-    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me1.gif" width="550"/>
-  </a>
-
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6x-u&theme=onedark&hide_border=true"/>
-</div>
-
-<br><br>
-
-<div align="center">
-  <h1>MERO's Top Languages</h1>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6x-u&theme=onedark&hide_border=true&layout=compact"/>
-
-  <br><br>
-
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,java,php,go,rust,lua,html,css,bash"/>
-
-  <br><br>
-
-  <table>
-    <tr>
-      <td align="center">🇺🇸 <b>English</b></td>
-      <td align="center">🇸🇦 <b>Arabic</b></td>
-    </tr>
-    <tr>
-      <td align="center" style="color:#58a6ff;">Professional</td>
-      <td align="center" style="color:#2ea043;">Native</td>
-    </tr>
-  </table>
-</div>
-
-<br><br>
-
-<div align="center">
   <h1>Contacts</h1>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://skillicons.dev/icons?i=telegram"/>
+    <img src="https://skillicons.dev/icons?i=telegram" width="50"/>
   </a>
-  <span style="margin:0 14px;"></span>
+  <span style="margin:0 20px;"></span>
   <a href="https://www.tiktok.com/@91pe">
-    <img src="https://skillicons.dev/icons?i=tiktok"/>
+    <img src="https://skillicons.dev/icons?i=tiktok" width="50"/>
   </a>
 </div>
 
