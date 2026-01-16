@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="120" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+  <img width="140" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
   <br><br>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="260"/>
+    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="400"/>
   </a>
 
   <br><br>
@@ -65,12 +65,12 @@
   <h1>MERO's Stats</h1>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="200"/>
+    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="420"/>
   </a>
 
   <br><br>
 
-  <audio controls preload="none" style="width:300px;">
+  <audio controls preload="none" style="width:350px;">
     <source src="https://raw.githubusercontent.com/6x-u/gif/main/me.mp3" type="audio/mpeg">
   </audio>
 
@@ -85,7 +85,7 @@
   <h1>Ultimate Streak</h1>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me1.gif" width="420"/>
+    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me1.gif" width="480"/>
   </a>
 
   <br><br>
