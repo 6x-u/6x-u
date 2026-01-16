@@ -85,11 +85,11 @@
   <h1>Contacts</h1>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://skillicons.dev/icons?i=telegram" width="50"/>
+    <img src="https://skillicons.dev/icons?i=telegram" width="40"/>
   </a>
-  <span style="margin:0 20px;"></span>
+  <span style="margin:0 16px;"></span>
   <a href="https://www.tiktok.com/@91pe">
-    <img src="https://skillicons.dev/icons?i=tiktok" width="50"/>
+    <img src="https://skillicons.dev/icons?i=tiktok" width="40"/>
   </a>
 </div>
 
