@@ -71,12 +71,22 @@
   <br><br>
 
   <audio controls preload="none" style="width:400px;">
-    <source src="https://raw.githubusercontent.com/6x-u/gif/main/me.mp3" type="audio/mpeg">
+    <source src="https://files.catbox.moe/ndxwx6.mp3" type="audio/mpeg">
   </audio>
 
   <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=6x-u&theme=onedark&show_icons=true&hide_border=true&count_private=true"/>
+</div>
+
+<br><br>
+
+<div align="center">
+  <h1>Special GIF</h1>
+
+  <a href="https://t.me/QP4RM">
+    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me1.gif" width="750"/>
+  </a>
 </div>
 
 <br><br>
