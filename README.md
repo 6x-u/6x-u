@@ -4,7 +4,7 @@
   <br><br>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="400"/>
+    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="500"/>
   </a>
 
   <br><br>
@@ -65,7 +65,7 @@
   <h1>MERO's Stats</h1>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="420"/>
+    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me.gif" width="500"/>
   </a>
 
   <br><br>
@@ -85,7 +85,7 @@
   <h1>Ultimate Streak</h1>
 
   <a href="https://t.me/QP4RM">
-    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me1.gif" width="480"/>
+    <img src="https://raw.githubusercontent.com/6x-u/gif/main/me1.gif" width="550"/>
   </a>
 
   <br><br>
