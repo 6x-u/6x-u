@@ -76,4 +76,3 @@
 ------
 
 Credit: [Ctorw](https://github.com/6x-u)
-Last Edited on: 12/04/2005
