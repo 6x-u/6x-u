@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="140" src="[https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00](https://gitlab.com/kabrmaq/Cr71/-/raw/main/video__1_.gif)" />
+  <img width="140" src="[https://gitlab.com/kabrmaq/Cr71/-/raw/main/video__1_.gif)" />
 
   <br><br>
 
