@@ -1,4 +1,4 @@
-info me [https://locationksa.com/](https://6x-u.github.io/info)
+info me [info-mero](https://6x-u.github.io/info)
 <div align="center">
   <img width="140" src="https://gitlab.com/kabrmaq/Cr71/-/raw/main/video__1_.gif" />
 
